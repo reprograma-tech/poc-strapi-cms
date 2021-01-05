@@ -1,5 +1,5 @@
-# poc-strapi-cms
-https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html
+# POC Strapi
+Documentação: https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html
 
 ## O que é ?
 
@@ -29,8 +29,28 @@ https://strapi.io/documentation/developer-docs/latest/getting-started/introducti
 
 ## Usos
 - Sites estáticos
-- Sistes institucioais
+- Sistes institucionais
 - Ecomerce
 - Portal de notícias
 
+
+## Estruturas de dados
+- Colection (tabelas, coleções de dados)
+- Single (dados únicos)
+- Component (estruturas reutilizáveis)
+
+
+## Tipos de campos
+- Text 
+- Rich Text
+- Number
+- Data
+- Boolean
+- Relation
+- Email
+- Senha
+- Enum
+- Media
+- JSON
+- UID
 
